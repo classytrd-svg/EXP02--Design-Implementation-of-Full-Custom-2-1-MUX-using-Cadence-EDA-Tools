@@ -1,8 +1,10 @@
 # Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
+# Name :- Vignesh E
+# reg no:- 212223060298
 
 ## Aim
 
-The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cadence EDA tools, ensuring accurate logic operation through waveform analysis and verification.
+The aim is to design and simulate a full custom 2:1  multiplexer (MUX) using Cadence EDA tools, ensuring accurate logic operation through waveform analysis and verification.
 
 ## Tools Required
 
